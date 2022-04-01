@@ -1,0 +1,16 @@
+dates:
+  - date: "29/03/22 20:10"
+    participants:
+      - Hans
+      - Dieter
+
+participants:
+  - firstname: Hans
+    lastname: Schmid
+    email: hans.schmid@live.de
+    phone: 0123456789
+  - firstname: Dieter
+    lastname: Maier
+    email: dieter.maier@yahoo.de
+    phone: 0123456789
+    
